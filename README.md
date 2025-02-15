@@ -8,3 +8,14 @@ Tweet or LinkedIn your progress using the #100DaysOfCode hashtag.
 Encourage and support fellow developers on their journey.
 
 **Progress Log**
+
+
+
+**Tips**
+Set clear goals for each day.
+Explore new technologies to broaden your skill set.
+Don't be afraid to ask for help or collaborate with others.
+Stay consistent and celebrate small victories.
+**Connect with Me**
+LinkedIn: 
+Let's code together and make the next 100 days productive and exciting!
